@@ -14,5 +14,3 @@ requests==2.31.0
 psutil
 SQLAlchemy==2.0.23
 aiofiles
-pip install python-telegram-bot[job-queue]
-pip install --upgrade "python-telegram-bot[job-queue]
